@@ -319,7 +319,7 @@ EC2 Deployment Screenshot:
 
 ## Slack Notification
 
-![Slack Alert](screenshots/slack-alert.png)
+![Slack Alert](screenshots/slack-alert.png.)
 
 ---
 
