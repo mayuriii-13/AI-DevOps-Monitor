@@ -307,7 +307,7 @@ EC2 Deployment Screenshot:
 
 ## Monitoring System
 
-![Monitoring](screenshots/03-monitor-running.png)
+![Monitoring](screenshots/monitor-running.png)
 
 ## Error Detection
 
