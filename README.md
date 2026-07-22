@@ -78,7 +78,7 @@ The main objectives of this project are:
 
 Architecture Diagram:
 
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/architecture.jpeg)
 
 ---
 
